@@ -1,1 +1,3 @@
-# simple-socket-programming-server-and-client
+# Tutorial percobaan simple client and server
+# 1. Pasang IDE 
+saya pakai code:block

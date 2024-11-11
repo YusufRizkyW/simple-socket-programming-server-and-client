@@ -3,8 +3,7 @@
 saya pakai code:block
 
 # 2. Setting copy / paste di VB ( opsional )
-Opsional untuk memudahkan copy paste antar host dan guest
-buka terminal ubuntu, jalankan command ini
+Opsional untuk memudahkan copy paste antar host dan guest, buka terminal ubuntu, jalankan command ini
 > sudo apt update
 
 lanjut
@@ -16,4 +15,5 @@ Terus ke directory tempat anda mendownload file tadi
 
 Lalu jalankan instalasi
 > sudo ./VBoxLinuxAdditions.run
+
 

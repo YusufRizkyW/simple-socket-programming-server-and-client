@@ -12,7 +12,8 @@ lanjut
 > sudo apt install build-essential dkms
 
 Tunggu sampai downlod selesai
-Terus ke directory tempat anda mendownload file tadi
+
+Terus masuk ke directory tempat anda mendownload file tadi
 > cd /media/(ganti pakai username ubuntu)/VBox_GAs_(versi yg di download)/
 
 Lalu jalankan instalasi
@@ -25,4 +26,9 @@ Setelah itu restart ubuntu, di Virtual Box sebelum start ke ubuntu pilih menu se
 
 Klik Ok, kemudian start ubuntu seperti biasa
 
-# 3. 
+# 3. Percobaan
+Buka code:block dan buat file baru
+
+copy code program server dari file server.c di github, kemudian simpan di directory home
+
+buat file kedua client.c, langkah sama seperti file server.c

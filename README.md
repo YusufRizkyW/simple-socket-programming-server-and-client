@@ -1,5 +1,7 @@
-# Tutorial percobaan simple client and server
-# 1. Pasang IDE 
+# Tutorial percobaan simple client and server di OS Linux Ubuntu
+source code https://github.com/ferryastika/socket-programming-simple-server-and-client
+
+# 1. Pasang IDE di Ubuntu
 saya pakai code:block
 
 # 2. Setting copy / paste di VB ( opsional )
@@ -16,4 +18,11 @@ Terus ke directory tempat anda mendownload file tadi
 Lalu jalankan instalasi
 > sudo ./VBoxLinuxAdditions.run
 
+Setelah itu restart ubuntu, di Virtual Box sebelum start ke ubuntu pilih menu settings > general > advanced >
+> shared clipboard ganti ke bidirectional
 
+> drag and drop ganti ke bidirectional
+
+Klik Ok, kemudian start ubuntu seperti biasa
+
+# 3. 
